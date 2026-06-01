@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersender",
+        "uuid": 1313581,
+        "checksum": "700p3kt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
